@@ -1,0 +1,44 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+# Old nested projects (not used by this Unity project)
+/New Unity Project/
+/META Serious game/
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+mono_crash.*
+*.apk
+*.aab
+*.unitypackage
+# Local debugging credentials
+/Assets/Resources/DevAgentSettings.asset
+/Assets/Resources/DevAgentSettings.asset.meta
+*.keystore
+*.jks
+.env
+.env.*
+# Unity generated tooling
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/
